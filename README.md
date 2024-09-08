@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shakil 💛</h1>
-<h3 align="center">A passionate Software Engineer from Bangladesh</h3>
+<h3 align="center">I want to be a Software Engineer</h3>
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*gqO3slLmGb4mUeje.gif">
 
